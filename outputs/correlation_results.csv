@@ -1,0 +1,31 @@
+Rank,Factor,Type,Strength,AbsStrength,Direction
+1,OverTime,Categorical,0.244,0.244,n/a (categorical)
+2,JobRole,Categorical,0.242,0.242,n/a (categorical)
+3,MaritalStatus,Categorical,0.177,0.177,n/a (categorical)
+4,TotalWorkingYears,Numeric,-0.171,0.171,Higher value = less attrition
+5,JobLevel,Numeric,-0.169,0.169,Higher value = less attrition
+6,YearsWithCurrManager,Numeric,-0.162,0.162,Higher value = less attrition
+7,YearsInCurrentRole,Numeric,-0.161,0.161,Higher value = less attrition
+8,MonthlyIncome,Numeric,-0.16,0.16,Higher value = less attrition
+9,Age,Numeric,-0.159,0.159,Higher value = less attrition
+10,StockOptionLevel,Numeric,-0.137,0.137,Higher value = less attrition
+11,YearsAtCompany,Numeric,-0.134,0.134,Higher value = less attrition
+12,BusinessTravel,Categorical,0.131,0.131,n/a (categorical)
+13,JobInvolvement,Numeric,-0.13,0.13,Higher value = less attrition
+14,EducationField,Categorical,0.104,0.104,n/a (categorical)
+15,JobSatisfaction,Numeric,-0.103,0.103,Higher value = less attrition
+16,EnvironmentSatisfaction,Numeric,-0.103,0.103,Higher value = less attrition
+17,Department,Categorical,0.086,0.086,n/a (categorical)
+18,DistanceFromHome,Numeric,0.078,0.078,Higher value = more attrition
+19,WorkLifeBalance,Numeric,-0.064,0.064,Higher value = less attrition
+20,TrainingTimesLastYear,Numeric,-0.059,0.059,Higher value = less attrition
+21,DailyRate,Numeric,-0.057,0.057,Higher value = less attrition
+22,RelationshipSatisfaction,Numeric,-0.046,0.046,Higher value = less attrition
+23,NumCompaniesWorked,Numeric,0.043,0.043,Higher value = more attrition
+24,YearsSinceLastPromotion,Numeric,-0.033,0.033,Higher value = less attrition
+25,Education,Numeric,-0.031,0.031,Higher value = less attrition
+26,Gender,Categorical,0.028,0.028,n/a (categorical)
+27,MonthlyRate,Numeric,0.015,0.015,Higher value = more attrition
+28,PercentSalaryHike,Numeric,-0.013,0.013,Higher value = less attrition
+29,HourlyRate,Numeric,-0.007,0.007,Higher value = less attrition
+30,PerformanceRating,Numeric,0.003,0.003,Higher value = more attrition
